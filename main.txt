@@ -1,6 +1,6 @@
 public static void a(String args[])
 {
 		System.out.println("hii avinash");
-		System.out.println("para special force");
+		System.out.println("para special force para commando is here");
 		
 }
